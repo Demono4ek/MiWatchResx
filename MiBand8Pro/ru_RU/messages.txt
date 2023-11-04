@@ -396,7 +396,7 @@
 [about.setupwizard|1]: О часах
 [about_title.settings|1]: О часах
 [accel_test.check_tool|1]: Обнаружение ускорения (3/14)
-[accomplish.sport|1]: Выполнено
+[accomplish.sport|1]: Готово
 [action_preview.sport|1]: Предварительный просмотр
 [active.nfc|1]: Загрузка
 [active_fail.nfc|1]: Не удалось загрузить. Попробуйте еще раз.
@@ -528,7 +528,7 @@
 [avg_stroke.sport|1]: Среднее значение СПМ
 [avg_swolf.sport|1]: Средний SWOLF
 [back.common|1]: Назад
-[back_training.sport|1]: Подтягивание
+[back_training.sport|1]: Тренировка спины
 [backstroke.sport|1]: Плавание на спине
 [badminton.sport|1]: Бадминтон
 [balance.nfc|1]: Баланс: 
@@ -558,7 +558,7 @@
 [beach_volleyball.sport|1]: Пляжный волейбол
 [beat.hr|1]: Нерегулярный пульс
 [beatexp.hr|1]: Подробнее
-[beatexp1.hr|1]: Просмотр подробностей в приложении
+[beatexp1.hr|1]: Подробности доступны в приложении
 [beatexp2.hr|1]: Ваш браслет будет измерять пульс и регистрировать любые отклонения от нормы
 [before.breath|1]: Измерение пульса
 [bell.find_phone|1]: Ваш телефон зазвонит
@@ -585,7 +585,7 @@
 [bound_id.wxpay|1]: Ссылка на ID Weixin
 [bowling.sport|1]: Боулинг
 [boxing.sport|1]: Бокс
-[breakdance.sport|1]: Брейк-денс
+[breakdance.sport|1]: Брейк-данс
 [breaststroke.sport|1]: Плавание брассом
 [breath.health|1]: Дыхание
 [breath_btn.pressure|1]: Дыхание
@@ -656,7 +656,7 @@
 [close.sport|1]: Выключить
 [close_28.settings|1]: Выключить
 [close_ing.mute|1]: Подождите
-[close_reminder.sport|1]: Выкчлюить всё
+[close_reminder.sport|1]: Выключить всё
 [close_ring.mute|1]: Выключить
 [close_sedentary.act|1]: Отключить на сегодня напоминание о разминке?
 [cnt.common|1]: 次
@@ -683,13 +683,13 @@
 [connection_failed.sport|1]: Сбой соединения
 [connectknow.alarm|1]: Далее
 [continue.common|1]: продолжить
-[core_training.sport|1]: Базовая тренировка
+[core_training.sport|1]: Кор-тренировка
 [countdown|1]: Таймер
 [course_introduce.sport|1]: Введение
 [cricket.sport|1]: Крикет
 [cross_country.sport|1]: Бег по пересеченной местности
 [cross_country_skiing.sport|1]: Беговые лыжи
-[cross_fit.sport|1]: Кросс тренировка
+[cross_fit.sport|1]: Кроссфит
 [cs_lunar.calendar|1]: летний тепловой удар
 [curling.sport|1]: Керлинг
 [current.breath|1]: Текущий пульс
@@ -700,7 +700,7 @@
 [customize.sport|1]: Пользовательский
 [cx_festival.calendar|1]: Новый год по лунному календарю
 [cy_festival.calendar|1]: Двойная девятка или праздник Ян
-[cycling_moto.sport|1]: БМХ
+[cycling_moto.sport|1]: BMX
 [dance.sport|1]: Танцы
 [darts.sport|1]: Дартс
 [data.wf|1]: Виджеты
@@ -879,7 +879,7 @@
 [forget_pwd_tips.common|1]: Чтобы сбросить PIN-код перейдите в приложении в меню Устройство > PIN-код. 
 [free_sparring.sport|1]: Кикбоксинг
 [free_stage.sport|1]: Фристайл
-[free_training.sport|1]: Фристайл
+[free_training.sport|1]: Произвольная активность
 [freestyle.sport|1]: Фристайл
 [frequency.breath|1]: Пульс
 [frequency.sport|1]: Частота
@@ -936,7 +936,7 @@
 [golf.sport|1]: Гольф
 [goto_bind.alipay|1]: Добавить
 [goto_distance_calibration.sport|1]: Калибровка
-[goto_miwear_app.sport|1]: Просмотр подробностей в приложении
+[goto_miwear_app.sport|1]: Подробности доступны в приложении
 [goto_set.settings|1]: Перейдите в раздел Настройки
 [goto_watchface.settings|1]: Функция открытия приложения работает только при включенном основном циферблате часов и теперь можно попытаться вернуться к работе с основным циферблатом часов с помощью жеста
 [group_callisthenic.sport|1]: Спортивная гимнастика
@@ -1039,7 +1039,7 @@
 [intensity.explain|1]: "Разминка" показывает время выполнения умеренной и энергичной активности. Для взрослых в возрасте 18-64 лет необходимо стремиться к умеренной активности не менее 30 минут в день 5 раз в неделю. В качестве альтернативы можно выбрать 75 минут в неделю интенсивной активности. Вы увидите прогресс в "Движении" когда ваш каденс превысит 100 SPM или когда частота сердечных сокращений превысит 65% от максимальной частоты сердечных сокращений.
 [intensity_title.explain|1]: Разминка
 [intensity_unit.common|2]: минута|минут
-[intensive.common|1]: Интенсивный
+[intensive.common|1]: Интенсивная
 [inter_training_name.sport|1]: Интервальная тренировка
 [interval_train_confirm.sport|1]: Включение интервальной тренировки отключает цели тренировки. Включить сейчас?
 [interval_training.sport|1]: Интервальная тренировка
@@ -1099,10 +1099,10 @@
 [level6.training|1]: Отлично
 [level7.training|1]: Замечательно
 [level_dsc.training|1]: Уровень
-[light.common|1]: Свет
+[light.common|1]: Лёгкая
 [light.sleep|1]: Лёгкий сон
-[light_scrren.settings|1]: Пробуждение экрана при получении уведомления
-[light_scrren_toast.settings|1]: Пробуждение экрана при получении уведомлений
+[light_scrren.settings|1]: Включать экран при получении уведомлений
+[light_scrren_toast.settings|1]: Включать экран при получении уведомлений
 [light_test.check_tool|1]: Обнаружение фотодатчиков (7/14)
 [light_test_sign.check_tool|1]: Для продолжения\n-теста закройте экран.
 [light_value.check_tool|1]: Значение светочувствительности.
@@ -1113,7 +1113,7 @@
 [load.training|1]: Тренировочная нагрузка
 [load_explain.training|1]: Тренировочная нагрузка рассчитывается на основе вашего тренировочного импульса (TRIMP) для каждой тренировки что позволяет оценить влияние тренировки на организм. На основе полученных данных можно скорректировать следующую тренировку.
 [load_explain_more.training|1]: (Подробнее в разделе Помощь в приложении)
-[lock_over.settings|1]: Убедитесь что уведомления включены в разделе Mi Fitness > Уведомления приложений.
+[lock_over.settings|1]: Убедитесь, что уведомления включены в разделе Mi Fitness > Уведомления приложений.
 [lock_screen_notice.settings|1]: Уведомление только при блокировке телефона
 [lock_screen_notice_toast.settings|1]: При использовании телефона уведомления на часы не поступают.
 [loding.mihome|1]: Подождите
@@ -1137,12 +1137,12 @@
 [low_waring.oxygen|1]: Предупреждение о низком уровне SpO₂
 [low_waring1.oxygen|1]: Уведомление о низком уровне SpO₂
 [low_warning.hr|1]: Предупреждение о низком уровне пульса
-[lowbattery_10.reminder|1]: Батарея менее 10%
-[lowbattery_20.reminder|1]: Батарея менее 20%
-[lowbattery_5.reminder|1]: Батарея менее 5%
+[lowbattery_10.reminder|1]: Заряд батареи менее 10%
+[lowbattery_20.reminder|1]: Заряд батареи менее 20%
+[lowbattery_5.reminder|1]: Заряд батареи менее 5%
 [lowbattery_5_btn_tip.reminder|1]: Включить
 [lowbattery_5_tip.reminder|1]: Включить режим экономии батареи?
-[lowbattery_title.reminder|1]: Разряжена
+[lowbattery_title.reminder|1]: Батарея разряжена
 [lower_limb_training.sport|1]: Нижняя часть тела
 [lowexp.hr|1]: Подробнее
 [lowexp1.hr|1]: Устройство оповещает вас когда пульс опускается ниже заданного уровня. Это часто происходит во время сна или у физически активных людей. При возникновении головокружения одышки или учащенного сердцебиения следует обратиться к врачу.\nОбратите внимание, что данные о низком пульсе не предназначены для медицинских целей, а также для диагностики
@@ -1264,7 +1264,7 @@
 [monitor_sub_exp.sleep|1]: При включении этой функции устройство будет отслеживать REM-фазы сна.
 [more_add.worldclock|1]: Добавьте новое местоположение\nв приложении
 [more_sport.sport|1]: Больше
-[motion.settings|1]: Автоопределение
+[motion.settings|1]: Автоопределение тренировки
 [motion_disturb.settings|1]: Невозможно отправить напоминание о тренировке при включенном "не беспокоить"
 [motion_info.settings|1]: Получайте напоминания о начале тренировки.\nПоддерживаются тренировки на велосипеде, орбитреке, гребном тренажере, а также ходьба, бег и прыжки со скакалкой.
 [motion_reminder.settings|1]: Включение напоминаний о тренировках влияет на время работы батареи.
@@ -1283,7 +1283,7 @@
 [my_family.mihome|1]: Дома
 [mz_lunar.calendar|1]: Сезон мангровых зарослей
 [name.alipay|1]: Alipay
-[name.find_phone|1]: Найти телефон
+[name.find_phone|1]: Поиск телефона
 [name.timer|1]: Секундомер
 [name.tomatotimer|1]: Фокусировка
 [name.worldclock|1]: Мировое время
@@ -1591,7 +1591,7 @@
 [return.sport|1]: Назад
 [rhythm.breath|1]: Повторяйте за шариком
 [ride_indoor.sport|1]: Велотренажёр
-[ride_outdoor.sport|1]: Велосипед
+[ride_outdoor.sport|1]: На велосипеде
 [riding_time.sport|1]: Велоспорт
 [ring.mute|1]: Звук включен
 [ring_toast.mute|1]: Звук выключен
@@ -1605,7 +1605,7 @@
 [run_fast.sport|1]: Спринт
 [run_indoor.sport|1]: Беговая дорожка
 [run_month_lunar.calendar|1]: 29 февраля
-[run_outdoor.sport|1]: Бег на открытом воздухе
+[run_outdoor.sport|1]: Бег на улице
 [running_time.sport|1]: Бег
 [sailboat.sport|1]: Парусный спорт
 [sandbags_ball.sport|1]: Гирьевой спорт
@@ -1692,7 +1692,7 @@
 [shuttlecock.sport|1]: Бадминтон
 [shuttlecock_kicking.sport|1]: Бадминтон
 [single_bar.sport|1]: Горизонтальная планка
-[sit_ups.sport|1]: Сидячие упражнения
+[sit_ups.sport|1]: Приседания
 [sj_lunar.calendar|1]: Мороз
 [skate.sport|1]: Скейтборд
 [sled.sport|1]: Катание на санях
@@ -1771,7 +1771,7 @@
 [storage_space.sport|1]: Недостаточно памяти
 [storage_space_tips.sport|1]: Подключите телефон чтобы избежать перезаписи ранее сделанных записей о тренировках.
 [street_dance.sport|1]: Уличные танцы
-[strength_training.sport|1]: Прочность
+[strength_training.sport|1]: Силовые тренировки
 [stretch.sport|1]: Растяжка
 [stretch_after_jump.sport|1]: Post-jump rope stretch
 [stretch_after_long_run.sport|1]: Растяжка после бега на длинные дистанции
@@ -1790,10 +1790,10 @@
 [sure_to_reset_all_setting.sport|1]: Сбросить все настройки тренировки?
 [surfing.sport|1]: Водные лыжи
 [surfing_indoor.sport|1]: Флоубординг
-[swim_indoor.sport|1]: Плавание в бассейне
+[swim_indoor.sport|1]: Бассейн
 [swim_lock_prompt.sport|1]: Экран будет заблокирован. Для разблокировки проведите пальцем.
 [swim_main_style.sport|1]: Основной стиль
-[swim_outdoor.sport|1]: Плавание в море
+[swim_outdoor.sport|1]: Водоем
 [swimming_time.sport|1]: Плавание
 [swing.sport|1]: Качели
 [switch.share|1]: switch.share
@@ -1982,7 +1982,7 @@
 [wake_num.sleep|1]: Пробуждения
 [wake_up.reminder|1]: Время просыпаться
 [walk_indoor.sport|1]: Ходьба в помещении
-[walk_outdoor.sport|1]: Прогулка
+[walk_outdoor.sport|1]: Ходьба
 [walking_maching.sport|1]: Эллиптический\nтренажёр
 [wall_ball.sport|1]: Мяч от стены
 [warm_up.sport|1]: Лёгкая
@@ -2010,7 +2010,7 @@
 [wearing_notice_toast.settings|1]: Отключение уведомлений при снятии браслета с запястья
 [weatherCondition|1]: Погода
 [weather_title.alexa|1]: Погода
-[web_swimming.sport|1]: Плавание на финках
+[web_swimming.sport|1]: Скоростное плавание в ластах
 [wechat.common|1]: Weixin
 [wechatPayment|1]: Weixin Pay
 [weekly.alarm|1]: Настроить
@@ -2047,7 +2047,7 @@
 [yoga.sport|1]: Йога
 [ys_lunar.calendar|1]: дождевая вода
 [yx_festival.calendar|1]: Фестиваль фонарей
-[zone.hr|1]: Зона HR
+[zone.hr|1]: Зона пульса
 [zone.pressure|1]: Подробности
 [zoneexp.hr|1]: Подробнее
 [zq_festival.calendar|1]: праздник Середины осени
