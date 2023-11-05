@@ -434,7 +434,7 @@
 [alarm_title.alexa|1]: alarm_title.alexa
 [alexa.appname|1]: alexa.appname
 [alipayPaymentCode|1]: Alipay
-[allbreath%d.breath|2]: %d breath|%d breaths
+[allbreath%d.breath|2]: %d breath|%d вдохов
 [allday.calendar|1]: Весь день
 [allday_m36.calendar|1]: Весь день
 [always_bright_close.ctrl|1]: "Пробуждение в течение 5 минут" выключено
@@ -1054,7 +1054,7 @@
 [judo.sport|1]: Дзюдо
 [jujitsu.sport|1]: Джиу-джитсу
 [jump.sport|1]: Пропустить
-[just.common|1]: недавно
+[just.common|1]: Только что
 [just.health|1]: Сейчас
 [just_now.pressure|1]: Сейчас
 [jz_lunar.calendar|1]: спящий режим
