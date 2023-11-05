@@ -589,9 +589,9 @@
 [breaststroke.sport|1]: Плавание брассом
 [breath.health|1]: Дыхание
 [breath_btn.pressure|1]: Дыхание
-[breath_sub_exp.sleep|1]: Если эта функция включена то во время сна будет отслеживаться ночное дыхание. Показатели дыхания можно просмотреть в приложении.
+[breath_sub_exp.sleep|1]: Если эта функция включена, то во время сна будет отслеживаться ночное дыхание. Показатели дыхания можно просмотреть в приложении.
 [breath_switch.sleep|1]: Оценка дыхания
-[breath_time.breath|1]: Time
+[breath_time.breath|1]: Время упражнения
 [breath_title1.breath|1]: Дыхание
 [breath_train.common|1]: Дыхание
 [brides.sport|1]: Карты
@@ -602,7 +602,7 @@
 [brightness_title.settings|1]: Яркость
 [brisk_walk.sport|1]: Быстрая ходьба
 [brpg.sport|1]: Настольная игра
-[bt_disconn.check_tool|1]: Bluetooth был отключен подключите Bluetooth а затем продолжите обнаружение
+[bt_disconn.check_tool|1]: Bluetooth был отключен, включите Bluetooth, а затем продолжите обнаружение
 [bt_disconn.common|1]: Bluetooth отключен.
 [bt_disconn.find_phone|1]: Отключено
 [bt_disconn.phone|1]: Отключено
@@ -708,7 +708,7 @@
 [data_record.watchface|1]: Виджеты
 [data_title.act|1]: Подробнее
 [date|1]: Дата
-[day_after_tomorrow.wm|1]: Через 2 дня
+[day_after_tomorrow.wm|1]: Послезавтра
 [day_oxygen.settings|1]: Отслеживание уровня SpO₂ в течение всего дня
 [day_pressure.settings|1]: Круглосуточный мониторинг стресса
 [deadlift.sport|1]: Становая тяга
@@ -727,7 +727,7 @@
 [destretching.sport|1]: Растяжка
 [detail.alipay|1]: Прочитайте и согласитесь с Соглашением об обслуживании смарт-устройств в приложении Alipay.
 [detail.calendar|1]: Подробности
-[detect_exercising.sport|1]: Похоже что вы занимаетесь спортом
+[detect_exercising.sport|1]: Похоже, что вы занимаетесь спортом
 [device_name.common|1]: Название
 [device_name.settings|1]: Название
 [device_type.common|1]: Модель
@@ -737,14 +737,14 @@
 [disconnect.common|1]: Отключить
 [disconnect.sport|1]: Отключить
 [disconnect_retry.common|1]: Bluetooth не подключен\n Пожалуйста подключите Bluetooth и повторите попытку.
-[disp_reminder.settings|1]: Если включена функция Активный экран приоритет будет отдан отображению часов по умолчанию.
+[disp_reminder.settings|1]: Если включена функция Активный экран, приоритет будет отдан отображению часов по умолчанию.
 [display.settings|1]: Экран
 [display_on.sport|1]: Всегда включен
 [display_title.settings|1]: Экран
 [distance_calibration.sport|1]: Калибровка
 [distance_remind.sport|1]: Напоминание
 [distance_too_short.sport|1]: Слишком короткая дистанция тренировки для записи.
-[distance_too_short_resume.sport|1]: Слишком короткая дистанция тренировки для записи. Закончить?
+[distance_too_short_resume.sport|1]: Короткая тренировка, будет удалена. Закончить?
 [disturb.settings|1]: Не беспокоить
 [disturb_disconn.settings|1]: Отключен
 [disturb_sync.settings|1]: Синхронизация с телефоном
@@ -760,9 +760,9 @@
 [draughts.sport|1]: Шашки
 [driving.sport|1]: Дайвинг
 [ds_lunar.calendar|1]: великая летняя жара
-[dsc_cadence.sport|1]: СПМ
+[dsc_cadence.sport|1]: Каденс
 [dsc_cadence_avg.sport|1]: Средний каденс (СПМ)
-[dsc_calorie.sport|1]: ккал
+[dsc_calorie.sport|1]: Ккал
 [dsc_change_time.sport|1]: Переход
 [dsc_distance_backward.sport|1]: км позади
 [dsc_distance_backward_imp.sport|1]: миль позади
@@ -772,7 +772,7 @@
 [dsc_pace_avg.sport|1]: Средний темп
 [dsc_speed.sport|1]: км/ч
 [dsc_speed_avg.sport|1]: км/ч (средняя скорость)
-[dsc_step_cnt.sport|1]: шаг
+[dsc_step_cnt.sport|1]: Шаги
 [dsc_trips.sport|1]: длина
 [dumbbell_training.sport|1]: Гантели
 [duration_group.sport|1]: Этот набор
@@ -804,10 +804,10 @@
 [enabled.wxpay|1]: Включено
 [enabling.wxpay|1]: Включение... Завершите процесс на телефоне.
 [end.common|1]: закрыть
-[end.find_phone|1]: Завершено
+[end.find_phone|1]: Поиск остановлен
 [end.settings|1]: Конец
 [end.sport|1]: Конец
-[end.timer|1]: Таймер завершен
+[end.timer|1]: Время вышло
 [end_time.settings|1]: Конец
 [energy|1]: энергия
 [energy.sport|1]: Гидратация
@@ -826,7 +826,7 @@
 [every_year.todo|1]: Ежегодно
 [executive_fail.mihome|1]: Не удалось запустить сценарий
 [exhale.breath|1]: Выдох
-[exit.alipay|1]: Не удалось завершить сопряжение. Если выйти сейчас то в следующий раз нужно будет отсканировать код и добавить устройство снова.
+[exit.alipay|1]: Не удалось завершить сопряжение. Если выйти сейчас, то в следующий раз нужно будет отсканировать код и добавить устройство снова.
 [exit.wxpay|1]: Выход
 [exit_btn.alexa|1]: exit_btn.alexa
 [exit_cancel.wxpay|1]: Не выходить
@@ -853,8 +853,8 @@
 [failed.alipay|1]: Не удалось добавить
 [fancy_swimming.sport|1]: Художественное плавание
 [fast.sport|1]: Максимум
-[fat_burning.sport|1]: Интенсивный
-[fat_burning_interval.sport|1]: Интенсивный
+[fat_burning.sport|1]: Сжигание жира
+[fat_burning_interval.sport|1]: Сжигание жира
 [fencing.sport|1]: Фехтование
 [fight.sport|1]: Боевые виды спорта
 [find_wear.reminder|1]: Поиск устройства...
@@ -887,10 +887,10 @@
 [fsn_info.check_tool|1]: FSN:
 [full_hour.common|1]: ч
 [full_hour.settings|1]: час
-[full_hour.timer|1]: Ч
+[full_hour.timer|1]: Часы
 [full_min.common|1]: мин
 [full_min.settings|1]: мин
-[full_min.timer|1]: Мин
+[full_min.timer|1]: Минуты
 [functional_training.sport|1]: Функциональная тренировка
 [fw_ver.common|1]: номер версии
 [fw_ver.settings|1]: Версия
@@ -928,7 +928,7 @@
 [getting_songs.media|1]: Загрузка музыки...
 [getting_songs_w.media|1]: Загрузка музыки...
 [gnss_num.check_tool|1]: Количество спутников.
-[gnss_sign.check_tool|1]: Пожалуйста проведите тестирование на открытом воздухе/в помещении со спутниковым позиционированием
+[gnss_sign.check_tool|1]: Пожалуйста, проведите тестирование на открытом воздухе/в помещении со спутниковым позиционированием
 [gnss_snr.check_tool|1]: SNR:
 [gnss_test.check_tool|1]: Определение местоположения (2/14)
 [go_to_the_app_side_to_check.sport|1]: Просмотр большего количества записей в приложении после синхронизации данных
@@ -1099,7 +1099,7 @@
 [level6.training|1]: Отлично
 [level7.training|1]: Замечательно
 [level_dsc.training|1]: Уровень
-[light.common|1]: Лёгкая
+[light.common|1]: Лёгкая активность
 [light.sleep|1]: Лёгкий сон
 [light_scrren.settings|1]: Включать экран при получении уведомлений
 [light_scrren_toast.settings|1]: Включать экран при получении уведомлений
@@ -1258,7 +1258,7 @@
 [monitor_box.oxygen|1]: При включении этой функции часы будут отслеживать уровень SpO₂ когда вы ведете малоподвижный образ жизни.
 [monitor_btn.sleep|1]: Расширенный мониторинг
 [monitor_content.hr|1]: Отслеживайте частоту сердечных сокращений круглосуточно
-[monitor_health.hr|1]: Нерегулярный BPM
+[monitor_health.hr|1]: Аритмия
 [monitor_ill.pressure|1]: При включении этой функции часы будут отслеживать уровень стресса когда вы ведете малоподвижный образ жизни.
 [monitor_ill.sleep|1]: Включение расширенного мониторинга значительно сокращает время работы от батареи. Все равно включить?
 [monitor_sub_exp.sleep|1]: При включении этой функции устройство будет отслеживать REM-фазы сна.
@@ -1552,8 +1552,8 @@
 [report_cd_data.sport|1]: Сводка
 [report_cd_freq.sport|1]: Частота
 [report_cd_hr.sport|1]: Пульс
-[report_cd_pace.sport|1]: Pace
-[report_cd_seg_pace.sport|1]: Pace
+[report_cd_pace.sport|1]: Темп
+[report_cd_seg_pace.sport|1]: Темп
 [report_cd_seg_stroke_rate.sport|1]: Частота ударов
 [report_cd_seg_swolf.sport|1]: SWOLF
 [report_cd_speed.sport|1]: Скорость
@@ -1754,7 +1754,7 @@
 [step|1]: Шаги
 [step.act|1]: Шаги
 [step.explain|1]: "Шаги" показывают ежедневное количество шагов. Активный человек проходит от 8000 до 10 000 шагов в день.
-[step_minute.sport|1]: шаги/мин
+[step_minute.sport|1]: Шагов (-а) в минуту
 [step_reach.act|1]: Попадание в цель
 [step_title.explain|1]: Шаг
 [step_training.sport|1]: Степпер
@@ -1804,7 +1804,7 @@
 [sys_poweroff.settings|1]: Выключить
 [sys_poweroff_info.common|1]: Подтвердить отключение?
 [sys_poweroff_info.settings|1]: Выключить питание?
-[sys_reboot.common|1]: Вновь открыть
+[sys_reboot.common|1]: Перезагрузка
 [sys_reboot.settings|1]: Перезагрузка
 [sys_reboot_info.common|1]: Подтвердить перезагрузку?
 [sys_reboot_info.settings|1]: Перезагрузить сейчас?
@@ -1913,7 +1913,7 @@
 [train.sport|1]: Тренировка
 [train_setting.sport|1]: Настройки
 [training.sport|1]: Тренировка
-[training_interrupted.breath|1]: Breathing was interrupted
+[training_interrupted.breath|1]: Дыхание было прервано
 [training_load.sport|1]: Запуск тренировки
 [training_result.breath|1]: Результаты
 [transport.share|1]: Прозрачность
@@ -2004,7 +2004,7 @@
 [watchface.settings|1]: Циферблаты
 [watchmode.settings|1]: Модель
 [water_polo.sport|1]: Водное поло
-[water_sports.sport|1]: Другие водные виды спорта
+[water_sports.sport|1]: Водные виды спорта
 [wear_tight.health|1]: Следите за тем чтобы ремешок касался кожи
 [wearing_notice.settings|1]: Сообщать только при ношении
 [wearing_notice_toast.settings|1]: Отключение уведомлений при снятии браслета с запястья
