@@ -1671,9 +1671,9 @@
 [settings.appname|1]: Настройки
 [sevendays.vitality|1]: Оценка уровня жизненной активности за 7 дней
 [sevendays100.vitality|1]: Последние 7 дней: 100 баллов
-[sevendays100_text.vitality|1]: Вас не остановить продолжайте в том же духе!
+[sevendays100_text.vitality|1]: Вас не остановить, продолжайте в том же духе!
 [sevendays30.vitality|1]: Последние 7 дней: 30 баллов
-[sevendays30_text.vitality|1]: Продолжайте двигаться чтобы добиться еще больших результатов!
+[sevendays30_text.vitality|1]: Продолжайте двигаться, чтобы добиться еще больших результатов!
 [sevendays60.vitality|1]: Последние 7 дней: 60 баллов
 [sevendays60_text.vitality|1]: Вы на правильном пути!
 [sevendays_widget.vitality|1]: Последние 7 дней
@@ -1684,9 +1684,9 @@
 [shake_info2.settings|1]: Ладонь вниз экран вверх
 [shake_info3.settings|1]: Дважды быстро встряхнуть в горизонтальном направлении
 [shake_wirst.settings|1]: Встряхнуть запястье
-[share_see_device.common|1]: Пожалуйста проверьте статус вашего устройства на мобильном MyoCentre
+[share_see_device.common|1]: Пожалуйста, проверьте статус вашего устройства на мобильном MyoCentre
 [sharedevice.share|1]: Mi Smart Hub
-[short.sleep|1]: Ворс
+[short.sleep|1]: Короткий сон
 [shuffle_ball.sport|1]: Шафлборд
 [shutdown.reminder|1]: Часы перегрелись. Отключение питания.
 [shuttlecock.sport|1]: Бадминтон
@@ -1851,12 +1851,12 @@
 [this_train_time.breath|1]: Сессия
 [time.alarm|1]: Время
 [time.wf|1]: Время
-[time/min.health|1]: BPM
+[time/min.health|1]: уд/мин
 [time_break.sport|1]: Отдых
 [time_break_title.sport|1]: Время отдыха
 [time_dsc.training|1]: Время восстановления
-[time_hour.alarm|1]: Час
-[time_min.alarm|1]: Минута
+[time_hour.alarm|1]: Часы
+[time_min.alarm|1]: Минуты
 [time_on.settings|1]: По расписанию
 [time_on_28.settings|1]: По расписанию
 [time_on_title.settings|1]: По расписанию
@@ -1881,13 +1881,13 @@
 [title.timer|1]: Таймер
 [to_enable.wxpay|1]: Для включения используйте Weixin для сканирования QR-кода.
 [to_get1.training|1]: 1. Заполните свои персональные данные в приложении.
-[to_get2.training|1]: 2. Наденьте часы и бегайте на свежем воздухе в течение 10+ минут чтобы достичь 75% от максимального сердечного ритма.
+[to_get2.training|1]: 2. Наденьте часы и бегайте на свежем воздухе в течение 10+ минут, чтобы достичь 75% от максимального сердечного ритма.
 [tob.alipay|1]: Штрих-код
 [today.calendar|1]: Сегодня
 [today.common|1]: Сегодня
 [today.todo|1]: Сегодня
 [today.tomatotimer|1]: Сегодня
-[today_d.common|1]: 今日
+[today_d.common|1]: Сегодня
 [today_no_remind.act|1]: Прекратить сегодня
 [today_no_title.calendar|1]: Сегодня мероприятий нет
 [today_rest.hr|1]: Сегодня
@@ -1938,11 +1938,11 @@
 [uncompleted32.todo|1]: Не выполнено
 [unit_calorie.sport|1]: Ккал
 [unit_foot.sport|1]: Feet
-[unit_kilometer.sport|1]: Km
+[unit_kilometer.sport|1]: Км
 [unit_meter.sport|1]: Метры
 [unit_mile.sport|1]: Мили
 [unit_minute.sport|1]: Минуты
-[unit_mph.sport|1]: MPH
+[unit_mph.sport|1]: Миль/час
 [unit_num_cycle.sport|1]: Повторения
 [unit_number.sport|1]: Прыжки
 [unit_rope_freq.sport|1]: JPM
